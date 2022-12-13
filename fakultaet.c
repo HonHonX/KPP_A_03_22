@@ -24,7 +24,7 @@ int main () {
 	}
 		
 	//Ausgabe
-	printf("Das Produkt von aller Zahlen zwischen 1 und %d ist %d\n", n, ergebnis);
+	printf("Das Produkt aller Zahlen zwischen 1 und %d ist %d\n", n, ergebnis);
 
 	//Ende
 	printf("\n\n");
